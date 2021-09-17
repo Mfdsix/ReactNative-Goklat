@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Choco Pandan",
+        "description": "Kalian sudah cobain varian rasa Choco Pandan yang direkomendasikan Baim Wong belum? Cobain yuukk....",
+        "price": "$0.6",
+        "image": "assets/bobbas/choco-pandan.png"
+    },
+    {
+        "id": 2,
+        "title": "Mangga",
+        "description": "Kalian sudah cobain varian rasa Mangga yang direkomendasikan Baim Wong belum? Cobain yuukk....",
+        "price": "$0.6",
+        "image": "assets/bobbas/mangga.png"
+    },
+    {
+        "id": 3,
+        "title": "Choco Banana",
+        "description": "Kalian sudah cobain varian rasa Choco Banana yang direkomendasikan Baim Wong belum? Cobain yuukk....",
+        "price": "$0.6",
+        "image": "assets/bobbas/choco-banana.png"
+    },
+    {
+        "id": 4,
+        "title": "Blewah",
+        "description": "Kalian sudah cobain varian rasa Blewah yang direkomendasikan Baim Wong belum? Cobain yuukk....",
+        "price": "$0.6",
+        "image": "assets/bobbas/blewah.png"
+    },
+    {
+        "id": 5,
+        "title": "Choco Durian",
+        "description": "Kalian sudah cobain varian rasa Choco Durian yang direkomendasikan Baim Wong belum? Cobain yuukk....",
+        "price": "$0.6",
+        "image": "assets/bobbas/choco-durian.png"
+    }
+]
